@@ -1,1 +1,1 @@
-import Settings from "./UI/Settings";
+import { Settings } from "./UI/Settings";
